@@ -19,3 +19,20 @@ def pour(jug1, jug2):
 print("JUG1\tJUG2")
 pour(0, 0)
 
+SAMPLE OUTPUT:
+JUG1	JUG2
+0	0
+5	0
+0	5
+5	5
+3	7
+0	3
+5	3
+1	7
+0	1
+5	1
+0	6
+5	6
+4	7
+0	4
+ 
